@@ -1,0 +1,2 @@
+USE cadastros;
+DESCRIBE gafanhotos;
